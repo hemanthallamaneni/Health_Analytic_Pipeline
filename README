@@ -1,6 +1,7 @@
 # Health Analytic Pipeline
 
 This repository contains the Health Analytic Pipeline project. This project aims to provide a comprehensive solution for analyzing health-related data. This contains 6 individual pipelines in a variety of B2B and B2C use cases, to generate insight.
+The first pipeline will perform beneficiary alanysis using the sample data retrieved from the CMS synpuf database. 20 sample files will have 5% of the total data. Any more would require an official license.
 
 ## Project Overview
 
