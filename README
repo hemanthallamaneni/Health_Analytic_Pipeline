@@ -7,6 +7,7 @@ This repository contains the Health Analytic Pipeline project. This project aims
 The Health Analytic Pipeline is designed to:
 
 - Collect and preprocess health data from various sources
+- Set up the data infrastructure for an overarching platform with an integrated pipeline
 - Perform data analysis and generate insights
 - Visualize the results in an easy-to-understand format
 
